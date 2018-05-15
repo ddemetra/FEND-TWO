@@ -1,4 +1,6 @@
-# Udacity with Google Challenge for FEND // Phase Two
+# Udacity with Google Challenge For FEND
+
+## **_Phase Two_**
 
 Lists for my FEND **Front-End Nanodegree** projects.
 
