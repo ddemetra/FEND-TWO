@@ -1,7 +1,5 @@
 # Udacity with Google Challenge For FEND
 
-## **_Phase Two_**
-
 Lists for my FEND **Front-End Nanodegree** projects.
 
 - [x] Lab: Animal Trading Cards
